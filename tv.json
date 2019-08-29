@@ -1,0 +1,22 @@
+{ "uuid":"64350b50-a810-4901-b86b-7a5106bdef2c", "title": "湖北", "channels":
+[
+{"name":"湖南卫视","url":"http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225892/1.m3u8"},
+{"name":"江苏卫视","url":"http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225885/1.m3u8"},
+{"name":"浙江卫视","url":"http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225899/1.m3u8"}
+{"name":"东方卫视","url":"http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225887/1.m3u8"},
+{"name":"广东卫视","url":"http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225893/1.m3u8"},
+{"name":"北京卫视","url":"http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225975/1.m3u8"}
+{"name":"山东卫视","url":"http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225974/1.m3u8"},
+{"name":"天津卫视","url":"http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225960/1.m3u8"},
+{"name":"湖北卫视","url":"http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225966/1.m3u8"}
+{"name":"黑龙江卫视","url":"http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225968/1.m3u8"},
+{"name":"深圳卫视","url":"http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225967/3.m3u8"},
+{"name":"安徽卫视","url":"http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225915/1.m3u8"}
+{"name":"辽宁卫视","url":"http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225888/1.m3u8"}
+{"name":"江西卫视","url":"http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225914/1.m3u8"}
+{"name":"东南卫视","url":"http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225961/1.m3u8"}
+{"name":"重庆卫视","url":"http://112.50.243.8/PLTV/88888888/224/3221225949/1.m3u8"}
+{"name":"河北卫视","url":"http://weblive.hebtv.com/live/hbws_bq/index.m3u8"}
+{"name":"厦门卫视","url":"http://112.50.243.7/PLTV/88888888/224/3221226781/index.m3u8"}
+]
+}
